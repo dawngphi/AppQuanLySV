@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899242357228",
+    "project_id": "database-232e3",
+    "storage_bucket": "database-232e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899242357228:android:711eecf312b3a4445750c9",
+        "android_client_info": {
+          "package_name": "com.fplproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899242357228-8244kqs2q4bao554fm36bo5rgiakh2v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fplproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "899242357228-22escia3f58sd2u73npo4qgplon3v45n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7PhvEgoiwi4vow92t2zOxT33HyCcZs2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899242357228-22escia3f58sd2u73npo4qgplon3v45n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
